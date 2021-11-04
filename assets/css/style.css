@@ -1,0 +1,28 @@
+/*
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400, 700
+*/
+
+/* Story */
+.story {
+  background-color: #c4c4c4;
+  padding: 20px;
+}
+
+.story-cover {
+  max-width: 100%;
+}
+
+.story-title {
+  color: #000;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.story p {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+}
